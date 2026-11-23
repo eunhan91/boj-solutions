@@ -4,13 +4,13 @@
 
 ## Environment
 
-- **Language**: C++20
+- **Language**: C++17
 - **Compiler**: g++
 
 ## Run
 
 ```sh
-g++ -std=c++20 -O2 solution.cpp -o solution
+g++ -std=c++17 -O2 solution.cpp -o solution
 ./solution
 ```
 
@@ -19,5 +19,5 @@ g++ -std=c++20 -O2 solution.cpp -o solution
 파일명은 문제 번호를 기준으로 작성합니다.
 
 ```text
-9012.cpp
+9012_v1.cpp
 ```
